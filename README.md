@@ -24,7 +24,7 @@ These notifcations are sent to the SNS topic which has a subscription configured
 ### Take note: Email Confirmation:
 In order to receive the notifications, the email recipient must first confirm the subscription through a confirmation link sent via email. This can be done once the Terraform code is deployed.
 
-`Email Subscription Confirmation`
+`Email Subscription Confirmation Link`
 
 ![email-subscription-confirmation](https://github.com/Dylon-Chan/serverless-app-assignment-wengsiong/blob/main/photos/sns-email-subscription-confirmation.png)
 
